@@ -1,0 +1,115 @@
+@charset "UTF-8";
+
+/*
+Forma Short-Hand de inserir Valores
+Margin
+margin-top: 10px;
+margin-bottom: 10px;
+margin-right: 10px;
+margin-left:10px;
+SHORT-HAND ---> margin: 10px;
+
+Flex
+flex-direction:row;
+flex-wrap:now-wrap;
+SHORT-HAND ---> flex-flow: row now-wrap;
+
+Flex
+flex-grow:1;
+flex-basis:1;
+flex-shrink:1;
+SHORT-HAND ---> flex: 1 1px 1px;
+O último pode ser ignorado.
+*/
+.container{
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.container *{
+  padding: 10px;
+  flex: 1 100%;
+}
+
+
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
