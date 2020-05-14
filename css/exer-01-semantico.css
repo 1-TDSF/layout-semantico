@@ -51,11 +51,17 @@ O último pode ser ignorado.
   background-color: #656fd0;
 }
 
-@media all and (min-width: 800px) {
+@media all and (min-width: 600px) {
   .lateral{ flex: 1 0 0;}
 }
 
-
+@media all and (min-width: 800px) {
+  .principal{ flex: 3 0px;}
+  .lateral-1{ order: 1;}
+  .principal{ order: 2;}
+  .lateral-2{ order: 3;}
+  .rodape{ order:4;}
+}
 /**/
 /**/
 /**/
