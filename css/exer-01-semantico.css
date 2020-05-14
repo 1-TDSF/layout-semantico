@@ -51,6 +51,11 @@ O último pode ser ignorado.
   background-color: #656fd0;
 }
 
+@media all and (min-width: 800px) {
+  .lateral{ flex: 1 0 0;}
+}
+
+
 /**/
 /**/
 /**/
