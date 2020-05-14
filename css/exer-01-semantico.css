@@ -31,6 +31,25 @@ O último pode ser ignorado.
   flex: 1 100%;
 }
 
+.cabecalho{
+    background-color: #e6e47b;
+}
+
+.principal{
+  background-color: #e24d4d;
+}
+
+.lateral-1{
+  background-color:#bf97ac;
+}
+
+.lateral-2{
+  background-color: #76e868;
+}
+
+.rodape{
+  background-color: #656fd0;
+}
 
 /**/
 /**/
